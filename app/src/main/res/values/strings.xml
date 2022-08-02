@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Spesial Admin</string>
+    <string name="minimal_password">Minimal Password 6 Karakter</string>
+</resources>
